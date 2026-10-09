@@ -43,6 +43,13 @@ Esta versão é um protótipo de teste com pessoas de confiança. Ela não é ai
 6. No Day 7, preencha o Human Check-in e o Pilot Feedback.
 7. Use `EXPORT TEST DATA` para gerar um JSON com o feedback.
 
+## Atualizações v1.2
+- Instruções e orientações em português mais naturais em todos os dias da Semana 1.
+- Texto em inglês e tradução brasileira aparecem imediatamente acima de cada botão de narração.
+- O aluno pode acompanhar o texto, ouvir o áudio e depois tentar escutar novamente sem ler.
+- O texto narrado usa a voz em inglês do navegador; a disponibilidade e a qualidade da voz dependem do dispositivo.
+- Esta atualização não adiciona login, banco de dados, envio automático de gravações ou correção por IA.
+
 ## Importante
 - O progresso fica apenas no navegador via localStorage.
 - Não há login, banco de dados nem envio automático de áudio.
