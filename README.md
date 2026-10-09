@@ -82,3 +82,12 @@ Esta versão é um protótipo de teste com pessoas de confiança. Ela não é ai
 
 ## v1.4 — Microphone available throughout the week
 The recording control is now available on Days 1–7. Days 2–6 have a daily speaking prompt, and Day 7 has an optional speaking sample for the teacher check-in. Recordings can be replayed and downloaded but are not uploaded automatically.
+
+
+## v1.5 — Integração inicial com Supabase
+- Login de aluno/professor por e-mail e senha.
+- Cadastro de conta de aluno.
+- Botão para enviar gravações para o bucket privado `student-audios` e registrar metadados em `audio_submissions`.
+- Painel básico do professor para listar envios e reproduzi-los por URLs temporárias.
+- Requer o projeto Supabase configurado com as tabelas, permissões e bucket descritos no plano de integração.
+- Esta integração precisa ser validada em ambiente de teste antes de uso real com alunos.
