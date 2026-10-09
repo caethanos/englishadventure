@@ -78,3 +78,7 @@ Esta versão é um protótipo de teste com pessoas de confiança. Ela não é ai
 - Respostas de escrita guardadas localmente por dia e restauradas ao voltar à atividade.
 - A escrita aparece antes do botão de concluir o dia.
 - O feedback é baseado em regras simples, não em IA; respostas alternativas podem não ser reconhecidas.
+
+
+## v1.4 — Microphone available throughout the week
+The recording control is now available on Days 1–7. Days 2–6 have a daily speaking prompt, and Day 7 has an optional speaking sample for the teacher check-in. Recordings can be replayed and downloaded but are not uploaded automatically.
