@@ -1,4 +1,4 @@
-# English Adventures
+# English Adventure — Pilot Week 1
 
 ## Objetivo
 Esta versão é um protótipo de teste com pessoas de confiança. Ela não é ainda a plataforma final.
