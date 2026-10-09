@@ -69,3 +69,12 @@ Esta versão é um protótipo de teste com pessoas de confiança. Ela não é ai
 8. O professor consegue diagnosticar o gargalo em 15 minutos?
 9. O que devemos remover?
 10. O que devemos tornar melhor?
+
+
+## Atualizações v1.3
+- Atividades de escrita nos Days 2–6, alinhadas ao objetivo de cada dia.
+- Feedback inicial com sugestões para identidade, origem, residência e ocupação.
+- Exemplos opcionais para consulta, sem obrigar o aluno a copiar o modelo.
+- Respostas de escrita guardadas localmente por dia e restauradas ao voltar à atividade.
+- A escrita aparece antes do botão de concluir o dia.
+- O feedback é baseado em regras simples, não em IA; respostas alternativas podem não ser reconhecidas.
